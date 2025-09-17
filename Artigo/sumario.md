@@ -1,10 +1,12 @@
 # Título do trabalho
 
-1. Nome do aluno 1
-1. Nome do aluno 2 (se houver)
+1. Júlia Borges Araújo Silva
+1. Letícia Rodrigues Blom de Paula
 
-* Nome do orientador de conteúdo
-* Nome do orientador acadêmico
+* Orientador de conteúdo (TCC I): Danilo Maia - dqmf88@yahoo.com.br
+* Orientador de conteúdo (TCC I): Leonardo Vilela - leonardocardoso@pucminas.br
+* Orientador de conteúdo (TCC I): Raphael Ramos - rrdcostasi@gmail.com
+* Orientador acadêmico (TCC I): Cleiton Tavares - cleitontavares@pucminas.br
 
 ## Introdução
 
