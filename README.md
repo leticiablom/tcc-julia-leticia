@@ -4,14 +4,16 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Júlia Borges Araújo Silva
+* Letícia Rodrigues Blom de Paula
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo (TCCI)
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Orientador de conte´udo (TCC I): Danilo Maia - dqmf88@yahoo.com.br
+* Orientador de conte´udo (TCC I): Leonardo Vilela - leonardocardoso@pucminas.br
+* Orientador de conte´udo (TCC I): Raphael Ramos - rrdcostasi@gmail.com
+* Orientador acadˆemico (TCC I): Cleiton Tavares - cleitontavares@pucminas.br
+* Nome do orientador de TCC II: (A ser definido no próximo semestre)
 
 ## Instruções de Replicação/Reprodução
 
