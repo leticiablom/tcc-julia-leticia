@@ -1,0 +1,22 @@
+# Usability Study to Promote Co-Creation Among People With Disabilities, Developers, and Makers With a Focus on the Assistive Technology Open Platform in Korea
+
+Ro, Eun Rae; An, Kwang Ok; Kim, Agnes Jihae; Jang, Sung Uk; Kim, Eun Joo; Eun, Seon Deok. "Usability Study to Promote Co-Creation Among People With Disabilities, Developers, and Makers With a Focus on the Assistive Technology Open Platform in Korea," in IEEE Access, vol. 12, pp. 39016-39027, 2024. Publicado em: [10.1109/ACCESS.2023.3345036](https://doi.org/10.1109/ACCESS.2023.3345036).
+
+## 1. Fichamento de Conteúdo
+Este artigo apresenta um estudo de usabilidade da "_AT Open Platform_", uma plataforma _open-source_ da Coreia do Sul criada para facilitar a co-criação de tecnologia assistiva (AT). O contexto é a crescente necessidade de dispositivos assistivos personalizados para pessoas com deficiência e idosos, e o problema é que a falta de acesso a informações e serviços centralizados dificulta o aproveitamento de tecnologias como a impressão 3D. A plataforma visa resolver isso conectando três grupos de _stakeholders_: pessoas com deficiência (que propõem ideias), desenvolvedores (que criam soluções _open-source_) e fabricantes (_makers_, que produzem os dispositivos). O método de pesquisa avaliou a usabilidade da plataforma com 20 participantes desses três grupos, analisando a eficiência (via análise temática do método _think-aloud_), a eficácia (via análise de tarefas) e a satisfação (usando a Escala de Usabilidade do Sistema - SUS - e um _scorecard_ de qualidade de UI/UX). Os resultados identificaram 415 problemas de usabilidade, sendo o mais comum a "dificuldade em compreender o conteúdo do serviço". A pesquisa conclui com recomendações para melhorar a plataforma, como fornecer serviços mais intuitivos, melhorar a redação da UX, simplificar o uso e definir funções detalhadas para cada persona de _stakeholder_, visando promover uma co-criação mais eficaz.
+
+## 2. Fichamento Bibliográfico
+
+- **_Assistive technology_ (tecnologia assistiva)**: tecnologia que apoia a melhoria das funções mentais e físicas para permitir uma vida independente e de alta qualidade para idosos e pessoas com deficiência. A plataforma estudada é um repositório _open-source_ para o desenvolvimento de TAs.   
+- **_AT Open Platform_ (Plataforma de Código Aberto)**: plataforma de compartilhamento _open-source_ na Coreia, onde pessoas com deficiência propõem necessidades, desenvolvedores criam soluções e fabricantes produzem os dispositivos. A interação entre esses diversos _stakeholders_ exige alta _usabilidade_. 
+- **_Usability_ (Usabilidade)**: conceito central avaliado no estudo, definido segundo a norma ISO 9241-11 como o cumprimento dos critérios de eficácia, eficiência e satisfação para atingir objetivos em um contexto específico. 
+- **_Think-aloud method_ (Método pensar em voz alta)**: técnica de avaliação de _usabilidade_ na qual os participantes verbalizam seus pensamentos, problemas e dúvidas enquanto realizam tarefas. O estudo utilizou este método para coletar dados qualitativos que foram posteriormente analisados tematicamente. 
+- **_System Usability Scale_ (Escala de Usabilidade do Sistema)**: ferramenta rápida e confiável, composta por 10 itens em uma escala _Likert_, utilizada para medir a _usabilidade_ e a satisfação do usuário com um sistema. Foi um dos instrumentos empregados para avaliar a satisfação na pesquisa. 
+
+## 3. Fichamento de Citações
+
+* _"Assistive technology plays an important role in facilitating independent living and a high quality of life for older adults and people with disabilities, who depend on the provision of customized assistive devices for various physical functions."_ 
+* _"In the AT Open Platform, older adults and those with disabilities propose needs, developers develop solutions for these needs and share products as open sources, and manufacturers provide services for older adults and those with disabilities using open sources."_
+* _"Usability refers to the fulfillment of effectiveness, efficiency, and satisfaction criteria to achieve goals in a specific context [16]."_
+* _"For an assistive device open platform, it is necessary to define personas for various stakeholders and provide only the core menus desired by the persona."_  
+* _"We expect that this open platform with improved usability will improve user accessibility and make it easier to find and use assistive devices that are essential in daily life."_  
