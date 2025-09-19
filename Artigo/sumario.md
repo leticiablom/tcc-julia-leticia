@@ -8,15 +8,13 @@
 * Orientador de conteúdo (TCC I): Raphael Ramos - rrdcostasi@gmail.com
 * Orientador acadêmico (TCC I): Cleiton Tavares - cleitontavares@pucminas.br
 
-## Link do overleaf: 
-- https://www.overleaf.com/read/qvsrhmkdvmnr#5f3f1e
 
 ## Introdução
 
 1. A área da Engenharia de Software tratada neste trabalho é Interação Humano–Computador (IHC), com ênfase em acessibilidade de serviços e automação de avaliação.
 1. O problema que este trabalho busca resolver nessa área é a falta de estudos sobre a persistência de barreiras de acessibilidade em serviços digitais governamentais, com ênfase na experiência de pessoas com deficiência visual que utilizam leitores de tela.
 1. Resolver este problema é relevante por que a acessibilidade em ferramentas de Governo Eletrônico é condição de cidadania digital e de acesso equitativo a serviços essenciais, e necessita de estudos que abordam o assunto.
-1. O objetivo geral deste trabalho é propor e avaliar um processo de auditoria de acessibilidade para serviços digitais governamentais, combinando varredura automatizada (WCAG 2.2, níveis A/AA) com walkthrough em leitor de tela (NVDA) em tarefas críticas.
+1. O objetivo geral deste trabalho é avaliar um processo de auditoria de acessibilidade para serviços digitais governamentais, combinando varredura automatizada (WCAG 2.2, níveis A/AA) com walkthrough em leitor de tela (NVDA) em tarefas críticas.
 1. Os *três* objetivos específicos deste trabalho são:
    - selecionar uma amostra de 8-12 serviços públicos úteis à sociedade (por exemplo, autenticação, emissão de documentos, consulta de benefícios, protocolo e agendamento) e definir tarefas representativas;
    - instrumentar um pipeline com ferramentas automáticas (axe/Lighthouse/validador HTML) e coleta por princípio, gerando relatórios comparáveis entre serviços;
